@@ -1,5 +1,5 @@
 #Author: Matthias Becker 
-#Affiliation: NMI Natural and Medical Sciences Institute at the University of T?bingen, 
+#Affiliation: NMI Natural and Medical Sciences Institute at the University of Tuebingen, 
 #             Reutlingen, Germany
 #Contact: matthias.becker@nmi.de
 #Date: 2022-01-13
